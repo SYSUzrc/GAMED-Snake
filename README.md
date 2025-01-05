@@ -1,5 +1,6 @@
 # GAMED-Snake: Gradient-aware Adaptive Momentum Evolution Deep Snake Model for Multi-organ Segmentation
-This is the code repository for the paper:
+Ruicheng Zhang, Haowei Guo, Zeyu Zhang, Puxin Yan and Shen Zhao* 
+This is the code repository for the paper: GAMED-Snake: Gradient-aware Adaptive Momentum Evolution Deep Snake Model for Multi-organ Segmentation
 
 
 If you use any content of this repo for your work, please cite the following our paper:
@@ -17,7 +18,7 @@ You can set up your own conda virtual environment by running the commands below.
 
 ```bash
 # create a clean conda environment from scratch
-conda create --name dymultidepth python=3.7
+conda create --name GAMEDSnake python=3.7
 conda activate GAMEDSnake
 
 # install pip
