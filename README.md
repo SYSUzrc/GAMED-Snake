@@ -9,6 +9,11 @@ This is the code repository for the paper:
 > 
 > **[[arXiv]]()** **[[Paper with Code]]()**
 
+<center class ='img'>
+<img title="(a) The workflow of GAMED-Snake consists of two stages: initialization of detection boxes and contour evolution. Taking the detection boxes as the initial contours, snake evolution process iteratively deforms them to match organ boundaries. (b) Semantic segmentation models based on pixel classification often struggle with complex multi-organ segmentation scenes, resulting in errors as illustrated in Fig. \ref{fig:image1}(b). In contrast, snake algorithms inherently avoid these issues, producing smooth and precise contours. (c) Improvement of GAMED-Snake over the SOTA approaches on MR\_AVBCE \cite{Zhao2023Attractive} and BTCV \cite{landman2015miccai} datasets." src="https://github.com/SYSUzrc/GAMED-Snake/blob/main/image1.png" width="100%">
+</center>
+
+
 ## Citation
 
 If you use any content of this repo for your work, please cite the following our paper:
