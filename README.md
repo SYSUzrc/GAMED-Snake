@@ -7,7 +7,7 @@ This is the code repository for the paper:
 >
 > \*Corresponding author
 > 
-> **[[arXiv]](https://arxiv.org/abs/2501.12844)** **[[Paper with Code]]()**
+> **[[arXiv]](https://arxiv.org/abs/2501.12844)** **[[Paper with Code]](https://paperswithcode.com/paper/gamed-snake-gradient-aware-adaptive-momentum)**
 
 <center class ='img'>
 <img title="(a) The workflow of GAMED-Snake consists of two stages: initialization of detection boxes and contour evolution. Taking the detection boxes as the initial contours, snake evolution process iteratively deforms them to match organ boundaries. (b) Semantic segmentation models based on pixel classification often struggle with complex multi-organ segmentation scenes, resulting in errors as illustrated in Fig. \ref{fig:image1}(b). In contrast, snake algorithms inherently avoid these issues, producing smooth and precise contours. (c) Improvement of GAMED-Snake over the SOTA approaches on MR\_AVBCE \cite{Zhao2023Attractive} and BTCV \cite{landman2015miccai} datasets." src="https://github.com/SYSUzrc/GAMED-Snake/blob/main/image1.png" width="100%">
@@ -18,8 +18,11 @@ This is the code repository for the paper:
 
 If you use any content of this repo for your work, please cite the following our paper:
 ```
-@article{
-······
+@article{zhang2025gamed-snake,
+  title={GAMED-Snake: Gradient-aware Adaptive Momentum Evolution Deep Snake Model for Multi-organ Segmentation},
+  author={Ruicheng Zhang, Haowei Guo, Zeyu Zhang, Puxin Yan and Shen Zhao},
+  journal={arXiv preprint arXiv:2501.12844},
+  year={2025}
 }
 ```
 
