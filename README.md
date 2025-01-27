@@ -18,9 +18,9 @@ This is the code repository for the paper:
 
 If you use any content of this repo for your work, please cite the following our paper:
 ```
-@article{zhang2025gamed-snake,
+@article{zhang2025gamed,
   title={GAMED-Snake: Gradient-aware Adaptive Momentum Evolution Deep Snake Model for Multi-organ Segmentation},
-  author={Ruicheng Zhang, Haowei Guo, Zeyu Zhang, Puxin Yan and Shen Zhao},
+  author={Zhang, Ruicheng and Guo, Haowei and Zhang, Zeyu and Yan, Puxin and Zhao, Shen},
   journal={arXiv preprint arXiv:2501.12844},
   year={2025}
 }
