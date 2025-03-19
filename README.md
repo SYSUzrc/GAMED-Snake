@@ -6,6 +6,8 @@ This is the code repository for the paper:
 > [Ruicheng Zhang](https://github.com/SYSUzrc), Haowei Guo, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), Puxin Yan and [Shen Zhao](https://scholar.google.com.hk/citations?hl=zh-CN&user=U68XZOgAAAAJ&view_op=list_works&sortby=pubdate)\*
 >
 > \*Corresponding author
+>
+> <em><b>ICME 2025</b></em>
 > 
 > **[[arXiv]](https://arxiv.org/abs/2501.12844)** **[[Paper with Code]](https://paperswithcode.com/paper/gamed-snake-gradient-aware-adaptive-momentum)**
 
